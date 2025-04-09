@@ -1,0 +1,168 @@
+{
+  "data": [
+    {
+      "amount": 947.04,
+      "currency": "CAD",
+      "timestamp": "2024-04-08T07:06:43.952013",
+      "transaction_id": "070588fd-c87e-4410-9e05-34eaa4b4329c",
+      "transaction_type": "deposit",
+      "user_id": "2862b4c6-cbd9-4fe7-9089-2f17aad2f9c7"
+    },
+    {
+      "amount": 474.64,
+      "currency": "USD",
+      "timestamp": "2025-01-17T05:12:07.405409",
+      "transaction_id": "b89c55de-a18c-44bf-99be-b95e68a70ceb",
+      "transaction_type": "purchase",
+      "user_id": "655c3131-b34f-4d6a-80fa-e7fb1821ab49"
+    },
+    {
+      "amount": 888.89,
+      "currency": "AUD",
+      "timestamp": "2024-06-25T12:24:24.145758",
+      "transaction_id": "04a4bc04-d0b4-4ad1-b494-6820830e6cbd",
+      "transaction_type": "withdrawal",
+      "user_id": "7b11ffeb-b18a-4475-b40b-5ceaa0108e97"
+    },
+    {
+      "amount": 325.55,
+      "currency": "GBP",
+      "timestamp": "2024-10-28T08:05:08.894187",
+      "transaction_id": "5cd672c0-57de-46e7-965c-e787beeda798",
+      "transaction_type": "refund",
+      "user_id": "66677341-1c22-48c3-9fce-1428598a16fe"
+    },
+    {
+      "amount": 663.13,
+      "currency": "USD",
+      "timestamp": "2024-04-06T21:40:45.795271",
+      "transaction_id": "596d99e5-6ae5-41e9-ad93-b3ae56b9cf02",
+      "transaction_type": "purchase",
+      "user_id": "c6bfb2c0-c1a9-4cc3-a5eb-e36ccb6d3521"
+    },
+    {
+      "amount": 640.23,
+      "currency": "EUR",
+      "timestamp": "2025-01-23T12:53:42.091092",
+      "transaction_id": "6174f29b-3cb8-446a-9724-d3a34a52e0f9",
+      "transaction_type": "purchase",
+      "user_id": "34a43377-abbc-4f68-86a9-f7ff32489433"
+    },
+    {
+      "amount": 667.47,
+      "currency": "USD",
+      "timestamp": "2024-06-14T03:35:12.040618",
+      "transaction_id": "5c955f3a-e971-4a33-a09f-91ad20f9b7c6",
+      "transaction_type": "refund",
+      "user_id": "972d04e6-cb3c-43cc-875e-4b7be2ba5a3c"
+    },
+    {
+      "amount": 437.66,
+      "currency": "AUD",
+      "timestamp": "2024-11-29T00:30:54.410076",
+      "transaction_id": "675cf9c1-0323-49e5-9e1e-a2b445e3826d",
+      "transaction_type": "purchase",
+      "user_id": "f3b2c2a7-c6ea-4190-8b5e-96993bfbaa03"
+    },
+    {
+      "amount": 348.95,
+      "currency": "AUD",
+      "timestamp": "2024-09-07T03:18:51.308213",
+      "transaction_id": "1e9f0070-d680-430a-a13d-8b6e1ec51b0e",
+      "transaction_type": "refund",
+      "user_id": "fd352e6d-7fa3-47a5-b476-4be1593dc941"
+    },
+    {
+      "amount": 226.52,
+      "currency": "CAD",
+      "timestamp": "2024-12-14T16:41:15.829665",
+      "transaction_id": "99d1c705-368a-4fd6-a3fb-a2b1ef3b5fed",
+      "transaction_type": "purchase",
+      "user_id": "96a10c5b-b241-485d-8a36-cdffe79fdf4d"
+    },
+    {
+      "amount": 137.36,
+      "currency": "AUD",
+      "timestamp": "2024-05-20T13:25:17.586563",
+      "transaction_id": "e91b1645-e3c6-4ac4-9990-3522c6987821",
+      "transaction_type": "deposit",
+      "user_id": "7674e3b2-d235-443f-a5b4-8454ce00be06"
+    },
+    {
+      "amount": 376.73,
+      "currency": "AUD",
+      "timestamp": "2025-01-06T07:28:44.885187",
+      "transaction_id": "bf43ec92-67e3-452f-a3e7-bc753c5751be",
+      "transaction_type": "withdrawal",
+      "user_id": "dcbd6257-5dbf-4208-982a-dc41f3523f39"
+    },
+    {
+      "amount": 183.75,
+      "currency": "CAD",
+      "timestamp": "2024-05-17T00:20:58.905396",
+      "transaction_id": "8dc8d2b5-1788-4edd-af6c-f7213986f75c",
+      "transaction_type": "purchase",
+      "user_id": "76946f01-5d42-4f3a-9c3b-f5e78539b20c"
+    },
+    {
+      "amount": 914.95,
+      "currency": "CAD",
+      "timestamp": "2024-07-12T01:13:55.647131",
+      "transaction_id": "ce6c905e-e271-4ba7-a1dc-f026beee086a",
+      "transaction_type": "withdrawal",
+      "user_id": "5dbda239-d410-4c20-afbf-d00b859e09fb"
+    },
+    {
+      "amount": 673.41,
+      "currency": "CAD",
+      "timestamp": "2024-06-18T14:18:52.633583",
+      "transaction_id": "a6ee97ba-caa1-4048-bfe4-f9fef3fc77bd",
+      "transaction_type": "withdrawal",
+      "user_id": "a5d5e3eb-1a65-4b37-91b0-6bec18ac1b24"
+    },
+    {
+      "amount": 633.37,
+      "currency": "AUD",
+      "timestamp": "2025-01-08T03:11:25.955756",
+      "transaction_id": "c444a761-d605-4e83-9e2b-4074f865a306",
+      "transaction_type": "withdrawal",
+      "user_id": "76f32862-dbc9-403d-b75a-93824421daa7"
+    },
+    {
+      "amount": 313.41,
+      "currency": "USD",
+      "timestamp": "2025-02-26T07:45:12.615735",
+      "transaction_id": "8eae842b-25a0-4c49-a416-a930f5cf3781",
+      "transaction_type": "withdrawal",
+      "user_id": "be0e982d-b45b-49d4-822f-8f149531205c"
+    },
+    {
+      "amount": 767.38,
+      "currency": "CAD",
+      "timestamp": "2024-06-24T15:23:47.610780",
+      "transaction_id": "875ca01f-4381-400a-b92a-921d6ba99bde",
+      "transaction_type": "withdrawal",
+      "user_id": "33770800-0c41-47dc-9b9b-532de1cc2f19"
+    },
+    {
+      "amount": 227.85,
+      "currency": "CAD",
+      "timestamp": "2024-10-05T06:29:46.741048",
+      "transaction_id": "b5cab381-1480-4816-a842-651456a82445",
+      "transaction_type": "purchase",
+      "user_id": "3a8e267c-8b89-4691-825e-73ada7656f54"
+    },
+    {
+      "amount": 30.97,
+      "currency": "EUR",
+      "timestamp": "2024-04-18T14:22:23.295720",
+      "transaction_id": "0aa77ed5-5942-4909-bc7a-82151dfea58a",
+      "transaction_type": "deposit",
+      "user_id": "baa7279b-ac47-47ba-bee5-580230088a9f"
+    }
+  ],
+  "limit": 20,
+  "page": 1,
+  "returned_records": 20,
+  "total_records": 100
+}
